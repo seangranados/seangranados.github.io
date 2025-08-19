@@ -142,7 +142,7 @@ params:
     roundImage: false # Make hero image circular | default false
     button:
       enable: true
-      name: "Resume"
+      name: "CV"
       url: "https://drive.google.com/file/d/17kx-MhYXuSomnEj-rDcZ7rWofEjvoowI/view?usp=sharing"
       download: true
       newPage: true
